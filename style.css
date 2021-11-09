@@ -1,0 +1,26 @@
+body {
+    font-family: 'Aclonica', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+head, h1{
+    color: aqua;
+}
+
+#resposta {
+    color: gold;
+}
+
+@media (min-width: 600px) {
+    h1 {
+    font-size: 40px;
+    }
+
+    #evento {
+        font-size: 30px;
+    }
+
+}
+    
+
